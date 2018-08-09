@@ -1,0 +1,7 @@
+{
+  "name": "LoginAssig",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
